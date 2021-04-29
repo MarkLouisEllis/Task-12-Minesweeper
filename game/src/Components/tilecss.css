@@ -1,0 +1,51 @@
+
+
+#body{
+  background-color: rgb(181, 212, 212);
+}
+
+.tile {
+    background: #817979;
+    border: 1px solid #fff;
+    float: left;
+    line-height: 45px;
+    height: 45px;
+    text-align: center;
+    width: 45px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 600;
+  }
+
+  .boardbody {
+    max-width: 580px;
+    margin: 0 auto;
+    padding: 20px;
+    
+  }
+
+  .hidden {
+    background: #413f3f;
+  }
+
+  #restartbtn{
+    float: right;
+    background-color: rgb(114, 117, 114);
+    color: white;
+    border-radius: 5px;
+    padding: 4px;
+   
+  
+  }
+
+  #mymenu{
+    
+    background-color: rgb(114, 117, 114);
+    color: white;
+    border-radius: 5px;
+    padding: 4px;
+  }
+
+
+    
